@@ -15,11 +15,3 @@ The system can easily be navigate by entering a certain numeric keys to purchase
 
 Has Text File Storage System
 The system has a storage system that store all the transaction details in a text file.
-
-Billing System using Python with Source Code Installation:
-You will have to download & install the Python IDLE's, here's the link "https://www.python.org/downloads/".
-Extract the zip file.
-Open the extracted folder
-Locate the py file.
-Then open the file via python IDLE.
-Run the py file to launch the program.
